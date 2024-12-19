@@ -1,3 +1,5 @@
+# 💫 About Me:
+🔭 I’m currently working on the Spring Boot Project<br>🌱 I’m currently learning DSA<be>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samudrala-venkata-pavan-tarun-kumar-032242255) 
